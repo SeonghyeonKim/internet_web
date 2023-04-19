@@ -5,6 +5,7 @@
   
 
     /*write complete code using 'overflow' attribute */
+    overflow: hidden;
   }
 
 div {
@@ -30,4 +31,5 @@ div {
     
 
     /*write complete code using 'position' attribute */
+    position: sticky;
 }

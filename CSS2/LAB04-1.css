@@ -1,13 +1,18 @@
 div{
     display: inline;
-
-
-     /*Write a code using 'width' and 'border' attribute*/
+    /*Write a code using 'width' and 'border' attribute*/
+     
+    width: auto;
+    border: 3px solid yellowgreen;
 }
 
 p{
     color: blue;
-    
     /*Write a code using 'background-color', 'position', 'bottom', and 'width' attribute*/
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
 }
 
+    

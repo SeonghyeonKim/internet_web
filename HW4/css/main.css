@@ -1,0 +1,54 @@
+body {
+    width: 980px;
+}
+
+body::after {
+    display:block;
+    clear:both;
+}
+
+#title {
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+#navi{
+    background-color: gray;
+    padding: 10px 0px;
+}
+
+#navi span{
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    font-size: 15px;
+}
+
+#profile {
+    float: left;
+}
+
+#education {
+    
+}
+
+#skills {
+    
+}
+
+footer {
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+div #img {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
